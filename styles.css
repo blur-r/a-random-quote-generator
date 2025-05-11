@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+#quote-box{
+    width:50%;
+    height:50%;
+    background-color:#D4A373;
+    margin-left:auto;
+    margin-right:auto;
+    padding:50px;
+    border-radius:10px;
+}
+a{
+    color:white;
+    font-size:20px;
+    display:block;
+}
+button{
+    color:white;
+    background-color:#1E1E1E;
+    height:30px;
+    border-radius:10px;
+}
+#author{
+    color:brown;
+    font-size:20px;
+}
